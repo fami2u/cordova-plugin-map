@@ -54,3 +54,5 @@
         
 - 为了使用完地图之后跳转回到本应用，需要开发者在info.plist中添加appSchmem，需要添加URL Schemes的内容和对应的Identifier(填写项目名和对应的bounldId，否则不能跳回本项目)。            
 
+#####更多插件请点击：[fami2u](https://github.com/fami2u)
+#####关于我们：[FAMI](http://fami2u.com)
